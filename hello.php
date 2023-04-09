@@ -1,7 +1,7 @@
 <?php
 
 
-echo "This is zaman"
+echo "This is zaman";
 
 
 ?>
